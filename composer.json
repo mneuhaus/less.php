@@ -1,5 +1,5 @@
 {
-	"name": "oyejorge/less.php",
+	"name": "oyejorge/lessphp",
 	"description": "PHP port of the Javascript version of LESS http://lesscss.org",
 	"keywords": [ "less", "css", "php", "stylesheet", "less.js", "lesscss" ],
 	"homepage": "http://lessphp.gpeasy.com",
