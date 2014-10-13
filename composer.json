@@ -25,6 +25,9 @@
 		"psr-0": { "Less": "lib/" },
 		"classmap": ["lessc.inc.php"]
 	},
+	"replace": {
+    	"leafo/lessphp": "*"
+	},
 	"bin": [
 		"bin/lessc"
 	]
